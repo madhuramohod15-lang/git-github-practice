@@ -14,3 +14,9 @@ This repository is created to practice Git and GitHub.
 - Git branches
 - Git merge
 - GitHub repositories
+
+## My Learning Progress
+
+- Learned Git basics
+- Created my first repository
+- Practiced commits and pushes
